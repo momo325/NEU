@@ -1,0 +1,7 @@
+gradio
+matplotlib
+numpy
+opencv-python-headless
+tqdm
+torch
+torchvision
