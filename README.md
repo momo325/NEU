@@ -57,3 +57,12 @@ pip install -r requirements.txt
 
 # 4. 启动应用
 python app.py
+
+## 👨‍💻 关于作者 (About Author)
+姓名: mmh
+
+身份: 人工智能方向研究生 (Graduate Student in AI)
+
+个人博客: https://zakee.fun - 记录技术折腾与生活随笔 ✍️
+
+Copyright © 2026 momo325. All rights reserved.
