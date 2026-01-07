@@ -57,6 +57,7 @@ pip install -r requirements.txt
 
 # 4. 启动应用
 python app.py
+```
 
 ## 👨‍💻 关于作者 (About Author)
 姓名: mmh
